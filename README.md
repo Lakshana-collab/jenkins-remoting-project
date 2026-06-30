@@ -130,13 +130,13 @@ NO_PUBKEY 7198F4B714ABFC68
 
 ### Jenkins Dashboard
 
-![Dashboard](screenshots/jenkins-dashboard.png)
+![Dashboard](jenkins-dashboard.png)
 
 ---
 
 ### Remote Agent Online
 
-![Nodes](screenshots/nodes-online.png)
+![Nodes](nodes-online.png)
 
 ---
 
@@ -148,19 +148,19 @@ NO_PUBKEY 7198F4B714ABFC68
 
 ### Freestyle Project
 
-![Project](screenshots/freestyle-project.png)
+![Project](freestyle-project.png)
 
 ---
 
 ### Successful Build
 
-![Build](screenshots/build-success.png)
+![Build](build-success.png)
 
 ---
 
 ### Console Output
 
-![Console](screenshots/console-output.png)
+![Console](console-output.png)
 
 ---
 
